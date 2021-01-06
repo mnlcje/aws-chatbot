@@ -4,7 +4,7 @@
   "description": "References\r ------------------\r https://www.youtube.com/watch?v=NWK6aT0ZENw\r https://www.youtube.com/watch?v=UuHRQAoup6Q\r https://www.youtube.com/watch?v=PnEMunQL0u8",
   "main": "handler.js",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {},
   "scripts": {
